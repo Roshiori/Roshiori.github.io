@@ -19,6 +19,8 @@ permalink: /about/
     - Apple iPhone 13 Pro Max (A15 Bionic, RAM6GB, iOS 15.4.1)
     - NTTドコモ SONY Xperia XZ1 SO-01K (Snapdragon 835, RAM4GB, Android 9)
     - ASUS Zenfone 5 ZE620KL (Snapdragon 636, RAM6GB, Android 10 Beta)
+- タブレット
+    - Apple iPad 第9世代 (Wi-Fiモデル, A13 Bionic, RAM3GB)
 - トロンボーン
     - XO UT-L (イエローブラスベル)
 
