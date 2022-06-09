@@ -16,11 +16,11 @@ permalink: /about/
     - サブ ASUS P2520SA (Celeron N3050, RAM4GB, Ubuntu 20.04.4)
 - スマートフォン
     - Google Pixel 6 (Tensor, RAM8GB, Android 12L)
-    - Apple iPhone 13 Pro Max (A15 Bionic, RAM6GB, iOS 15.4.1)
+    - Apple iPhone 13 Pro Max (A15 Bionic, RAM6GB, iOS 15.5)
     - NTTドコモ SONY Xperia XZ1 SO-01K (Snapdragon 835, RAM4GB, Android 9)
     - ASUS Zenfone 5 ZE620KL (Snapdragon 636, RAM6GB, Android 10 Beta)
 - タブレット
-    - Apple iPad 第9世代 (Wi-Fiモデル, A13 Bionic, RAM3GB, iPadOS 15.4.1)
+    - Apple iPad 第9世代 (Wi-Fiモデル, A13 Bionic, RAM3GB, iPadOS 15.5)
 - トロンボーン
     - XO UT-L (イエローブラスベル)
 
