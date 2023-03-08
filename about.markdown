@@ -6,7 +6,7 @@ permalink: /about/
 
 # 基本情報
 - かしおり(Twitter: [@Roshiori](https://twitter.com/Roshiori))
-- 某国立大学情報系学部 B2 (文系)
+- 静岡大学 情報学部 情報社会学科 B2 -> B3
 - 趣味はトロンボーンとポタリング
 - 最近はTypeScript + React/Next.jsを中心にフロントエンドを勉強しています. 
 
