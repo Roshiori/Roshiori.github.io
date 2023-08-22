@@ -18,6 +18,7 @@ permalink: /about/
 - スマートフォン
     - Google Pixel 6 (Google Tensor, RAM8GB, Android 13, mineo)
     - Apple iPhone 13 Pro Max (Apple A15 Bionic, RAM6GB, iOS 16.5.1, LINEMO/楽天モバイル)
+    - au Samsung Galaxy S22 SCG13 (Qualcomm Snapdragon 8 Gen 1, RAM8GB, au)
 - タブレット
     - Apple iPad 第9世代 (Wi-Fiモデル, Apple A13 Bionic, RAM3GB, iPadOS 16.5.1)
 - TWS
