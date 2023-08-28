@@ -7,7 +7,7 @@ permalink: /about/
 # 基本情報
 - かしおり(Twitter: [@Roshiori](https://twitter.com/Roshiori))
 - 静岡大学 情報学部 情報社会学科 B3
-- 趣味はトロンボーン, ポタリング, 低予算旅行, キャッシュレス決済など…
+- 趣味はトロンボーン, ポタリング, 低予算旅行, カーシェア, キャッシュレス決済など…
 - フロントエンド, デジタルガジェットなどに興味があります. 
 
 # 使用機材
@@ -16,9 +16,9 @@ permalink: /about/
     - Apple MacBook Air 13" (Late 2020, Apple M1, RAM8GB, macOS Ventura 13.4.1)
     - ASUS P2520SA (Intel Celeron N3050, RAM4GB, Manjaro Linux KDE Plasma)
 - スマートフォン
-    - Google Pixel 6 (Google Tensor, RAM8GB, Android 13, mineo)
+    - Google Pixel 6 (Google Tensor, RAM8GB, Android 13, mineo au回線/povo 2.0)
     - Apple iPhone 13 Pro Max (Apple A15 Bionic, RAM6GB, iOS 16.5.1, LINEMO/楽天モバイル)
-    - au Samsung Galaxy S22 SCG13 (Qualcomm Snapdragon 8 Gen 1, RAM8GB, au)
+    - au Samsung Galaxy S22 SCG13 (Qualcomm Snapdragon 8 Gen 1, RAM8GB, Android 13 au)
 - タブレット
     - Apple iPad 第9世代 (Wi-Fiモデル, Apple A13 Bionic, RAM3GB, iPadOS 16.5.1)
 - TWS
