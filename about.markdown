@@ -16,7 +16,6 @@ permalink: /about/
     - Apple MacBook Air 13" (Late 2020, Apple M1, RAM8GB, macOS Ventura 13.4.1)
     - ASUS P2520SA (Intel Celeron N3050, RAM4GB, Manjaro Linux KDE Plasma)
 - スマートフォン
-    - Google Pixel 6 (Google Tensor, RAM8GB, Android 13, mineo au回線/povo 2.0)
     - Apple iPhone 13 Pro Max (Apple A15 Bionic, RAM6GB, iOS 16.5.1, LINEMO/楽天モバイル)
     - au Samsung Galaxy S22 SCG13 (Qualcomm Snapdragon 8 Gen 1, RAM8GB, Android 13 au)
 - タブレット
@@ -31,6 +30,7 @@ permalink: /about/
     - セゾン・パール・アメリカン・エキスプレス(R)・カード Digital
     - セゾン・ゴールド・アメリカン・エキスプレス(R)・カード
     - 三井住友カード(NL) (Mastercard) 
+    - 三井住友カード(NL) (VISA)
 
 # 所持資格
 - 普通自動車運転免許 (MT)
