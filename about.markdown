@@ -16,10 +16,12 @@ permalink: /about/
     - Apple MacBook Air 13" (Late 2020, Apple M1, RAM8GB, macOS Ventura 13.4.1)
     - ASUS P2520SA (Intel Celeron N3050, RAM4GB, Manjaro Linux KDE Plasma)
 - スマートフォン
-    - Apple iPhone 13 Pro Max (Apple A15 Bionic, RAM6GB, iOS 16.5.1, LINEMO/楽天モバイル)
-    - au Samsung Galaxy S22 SCG13 (Qualcomm Snapdragon 8 Gen 1, RAM8GB, Android 13 au)
+    - Apple iPhone 13 Pro Max (Apple A15 Bionic, RAM6GB LINEMO/楽天モバイル)
+    - au Samsung Galaxy S22 SCG13 (Qualcomm Snapdragon 8 Gen 1, RAM8GB au)
 - タブレット
-    - Apple iPad 第9世代 (Wi-Fiモデル, Apple A13 Bionic, RAM3GB, iPadOS 16.5.1)
+    - Apple iPad 第9世代 (Wi-Fiモデル, Apple A13 Bionic, RAM3GB)
+- スマートウォッチ
+    - Apple Apple Watch SE 第2世代 (GPSモデル, Apple S8 SiP)
 - TWS
     - SONY WF-1000XM4 (イヤーピース: Spinfit CP360 XSサイズ)
 - トロンボーン
